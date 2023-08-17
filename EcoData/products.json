@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "ProductName": "C#",
+      "ProductDescription": "Fundamentals",
+      "ProductPrice": "5565",
+      "ProductCategory": "wer",
+      "id": 1
+    }
+  ]
+}
